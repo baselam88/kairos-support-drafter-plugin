@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Drafts grounded replies to repeat customer questions from the business's own knowledge base, in the owner's tone.",
+  "keywords": [
+    "drafter",
+    "kairos",
+    "small business",
+    "support"
+  ],
+  "license": "MIT",
+  "name": "kairos-support-drafter",
+  "repository": "https://github.com/baselam88/kairos-support-drafter-plugin",
+  "version": "0.1.0"
+}
